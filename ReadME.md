@@ -37,11 +37,13 @@ npm install
 
 ### 5. Start the Application: Works
 
-To start the Netflix clone application, use the following command:
+To start the Netflix clone application in background, use the following command:
 
 ```bash
 npm start &
 ```
+
+Default port will be 3000, make sure that port 3000 is open in your VMs.
 
 ### 6. Optional & May Not Work: Serve the Built Application
 
